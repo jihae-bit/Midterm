@@ -33,6 +33,7 @@ function draw() {
 }
 
 ![Phase2.jpeg](Phase2.jpeg)
+
 ## Phase 3   
 Inside the function, I used:
 
