@@ -5,6 +5,7 @@
 For Phase 1, I drew my idea on paper.  
 I decided to make a simple snowman using two circles for the body and head, and a triangle for the nose.  
 
+![Phase1.jpeg](Phase1.jpeg)
 ## Phase 2 
 In Phase 2, I turned my paper sketch into code.  
 
