@@ -32,6 +32,7 @@ function draw() {
   triangle(75, 60, 75, 65, 95, 62); 
 }
 
+![Phase2.jpeg](Phase2.jpeg)
 ## Phase 3   
 Inside the function, I used:
 
