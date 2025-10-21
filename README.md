@@ -71,6 +71,8 @@ function draw() {
   drawObject(200, 250, 1);
 }
 
+![Phase3.jpeg](Phase3.jpeg)
+
 ## Phase 4 
 In Phase 4, I used nested for-loops to draw many snowmen in a grid pattern.  
 'Push'for saving the position. 'Pop' for the restoring previous position.
@@ -124,6 +126,7 @@ function drawObject(x, y, s) {
   pop();
 }
 
+![Phase4-1.jpeg](Phase4-1.jpeg)
 
 function draw() {
   background(200, 220, 255);
@@ -165,6 +168,8 @@ function draw() {
   }
 }
 
+![Phase4-2.jpeg](Phase4-2.jpeg)
+
 //20x20 snowmen 
 
 function setup() {
@@ -195,4 +200,4 @@ function draw() {
   }
 }
 
-
+![Phase4-3.jpeg](Phase4-3.jpeg)
