@@ -32,7 +32,7 @@ function draw() {
   triangle(75, 60, 75, 65, 95, 62); 
 }
 
-[Phase2.js](https://editor.p5js.org)
+[Phase2.js] (https://editor.p5js.org)
 
 ## Phase 3   
 Inside the function, I used:
