@@ -32,6 +32,8 @@ function draw() {
   triangle(75, 60, 75, 65, 95, 62); 
 }
 
+[Phase2.js](https://editor.p5js.org)
+
 ## Phase 3   
 Inside the function, I used:
 
@@ -69,6 +71,8 @@ function draw() {
   drawObject(200, 60, 1);
   drawObject(200, 250, 1);
 }
+
+[Phase3.js](https://editor.p5js.org)
 
 ## Phase 4 
 In Phase 4, I used nested for-loops to draw many snowmen in a grid pattern.  
@@ -123,6 +127,8 @@ function drawObject(x, y, s) {
   pop();
 }
 
+[Phase4-1.js](https://editor.p5js.org)
+
 function draw() {
   background(200, 220, 255);
 
@@ -163,6 +169,8 @@ function draw() {
   }
 }
 
+[Phase4-2.js](https://editor.p5js.org)
+
 //20x20 snowmen 
 
 function setup() {
@@ -193,4 +201,5 @@ function draw() {
   }
 }
 
+[Phase4-3.js](https://editor.p5js.org)
 
